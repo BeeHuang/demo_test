@@ -4,7 +4,7 @@
   "description": "",
   "main": "demo.js",
   "dependencies": {
-    "bee_seo": "^1.0.3"
+    "bee_seo": "^1.0.5"
   },
   "devDependencies": {},
   "scripts": {
