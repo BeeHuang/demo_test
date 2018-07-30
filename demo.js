@@ -1,5 +1,5 @@
 var fs = require('fs');
-var SeoCheck = require( './seo.js' );
+var SeoCheck = require( 'bee_seo' );
 
 // demo 1
 // 1. read from filepath
